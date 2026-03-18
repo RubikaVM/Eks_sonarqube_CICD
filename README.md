@@ -1,1 +1,1 @@
-# Eks_sonarqube_CICD
+# Eks-sonarqube-cicd-project
